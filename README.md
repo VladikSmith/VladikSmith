@@ -28,9 +28,8 @@ I am a junior QA-engineer
 
 👨‍🎓 **Education**
 -----------
-* Hexlet School of Programming. Manual QA (in progress)
-* Hexlet School of Programming. QA automation (since January 2025)
-
+* Hexlet School of Programming. Manual QA
+* Hexlet School of Programming. QA automation (in progress)
 
  
 💼 **Project**
